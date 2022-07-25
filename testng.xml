@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Tests Suite">
+
+    <listeners>
+        <listener class-name="com.testapi.listeners.Listener" />
+    </listeners>
+
+    <test verbose="2" preserve-order="true" name="Res API Tests">
+        <classes>
+            <class name="com.testapi.tests.GetCallTest" />
+            <class name="com.testapi.tests.PostCallTest" />
+            <class name="com.testapi.tests.PatchCallTest" />
+            <class name="com.testapi.tests.PutCallTest" />
+            <class name="com.testapi.tests.DeleteCallTest" />
+        </classes>
+    </test>
+
+
+</suite>

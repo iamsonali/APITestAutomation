@@ -1,0 +1,10 @@
+.idea
+test-output/
+target/
+/src/main/app/node_modules/**
+reports
+.settings
+.project
+.classpath
+.metadata
+RestAssuredAPITestAutomation.iml
