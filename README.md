@@ -26,5 +26,5 @@ API Automation Test is RestAssured based TestNG framework to perform API testing
 - This can be implemented using cucumber BDD framework.
 - All the endpoints in the swagger document can be automated in the similar way.
 - I can preserve all the execution in the respective dates folder.
--
+
 
