@@ -18,5 +18,5 @@ API Automation Test is RestAssured based TestNG framework to perform API testing
 
 ### Report Path
 ```
-<ROOT_PROJECT>/reports/index.html
+<ROOT_PROJECT>/reports/ApiTestExecution.html
 ```
